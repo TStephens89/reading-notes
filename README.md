@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+![Screenshot 2022-05-03 at 12 09 06 PM](https://user-images.githubusercontent.com/104862689/166872392-cccd74d9-b308-4991-9fe2-fb4187c3bfd8.png) 
 
-You can use the [editor on GitHub](https://github.com/TStephens89/TStephens89.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Short Bio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Trevor Stephens, I recently ended my Navy career of 9 years to find a job that I had a passion for.  Growing up in Atlanta, GA and Nashville, TN I wold always find myself geared towards something tech related but I did not know where to start to follow my goal.  
+This lead me to the Navy where I was still unfulfilled because my job had less to do with computers than I expected (Aviation Electronics Technician).
 
-### Markdown
+https://github.com/TStephens89
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**The Growth Mindset**
 
-# Header 1
-## Header 2
-### Header 3
+In the very start of this class I opened Github read instructions and immediately felt overwhelmed because of life events so I immediately stopped and started thinking I was not in a position to complete the first task.  
+I took sometime called my parents asked for advice and was pleased that my Dad explained the growth mindset to me to give me motivation to stick with what I want to do.
+I was able to log back in and to my surprise our first assignemt was on what I had just been taught.
+The growth mindset is a way of not allowing yourself to stop yourself from being great in my opinion.
+People often have goals but when met with adversity they divert to this task is too difficult to complete.  
+After reading the blog and talking to my dad I learned several things that will keep in the growth mindset and here are a few:
 
-- Bulleted
-- List
+1. *Do not overwork and give yourself a chance to come back to the problem at hand*
 
-1. Numbered
-2. List
+2. ***not to lose focus on the task at hand and push through whatever obstacles are in your path.***
 
-**Bold** and _Italic_ and `Code` text
+3. Staying focused on my end-goal and the things I need to do make it to my destination.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TStephens89/TStephens89.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+4. ~~I needed a forth to show my cool markdown skills~~ :smiley: so disregard this.
