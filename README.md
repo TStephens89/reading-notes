@@ -1,13 +1,3 @@
-![Screenshot 2022-05-03 at 12 09 06 PM](https://user-images.githubusercontent.com/104862689/166872392-cccd74d9-b308-4991-9fe2-fb4187c3bfd8.png) 
-
-# Short Bio
-
-I am Trevor Stephens, I recently ended my Navy career of 9 years to find a job that I had a passion for.  Growing up in Atlanta, GA and Nashville, TN I wold always find myself geared towards something tech related but I did not know where to start to follow my goal.  
-This lead me to the Navy where I was still unfulfilled because my job had less to do with computers than I expected (Aviation Electronics Technician).
-
-https://github.com/TStephens89
-
-
 **The Growth Mindset**
 
 In the very start of this class I opened Github read instructions and immediately felt overwhelmed because of life events so I immediately stopped and started thinking I was not in a position to complete the first task.  
