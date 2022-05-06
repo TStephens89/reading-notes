@@ -1,5 +1,5 @@
 # Learning Summary
-[Learning Summary](./Learning_summary.md)
+[Learning Summary](./learning_summary.md)
 
 **The Growth Mindset**
 
