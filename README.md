@@ -1,6 +1,6 @@
 # Learning Summary
 [Learning Summary](./learning_summary.md)
-
+[The Coders Computer](./the_coders_computer.md)
 **The Growth Mindset**
 
 In the very start of this class I opened Github read instructions and immediately felt overwhelmed because of life events so I immediately stopped and started thinking I was not in a position to complete the first task.  
