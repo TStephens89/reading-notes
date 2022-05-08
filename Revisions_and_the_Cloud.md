@@ -17,3 +17,4 @@ able to use a "snapshot" of the current file we are editing.  These snapshots we
 which we usually identify as a savepoint for the particular version.  When referencing the **head** in Git that would
 be the current place we are in the file save.  While using [GitHub](https://www.Github.com) we are able to save and store our **repositories** (central place where we store data) on the website but we are also then able to **clone** this data for use 
 on our computer without [GitHub](https://www.Github.com). 
+Through exporting our **repositories** it gives us the option to open items in **VS code** (which is what we will use from this point forward for editing files we have saved.)
