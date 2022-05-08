@@ -16,4 +16,4 @@ that will allow its users to colloborate across multiple computers on a single f
 able to use a "snapshot" of the current file we are editing.  These snapshots we are called **commits**
 which we usually identify as a savepoint for the particular version.  When referencing the **head** in Git that would
 be the current place we are in the file save.  While using [GitHub](https://www.Github.com) we are able to save and store our **repositories** (central place where we store data) on the website but we are also then able to **clone** this data for use 
-on our computer without [GitHub](www.Github.com). 
+on our computer without [GitHub](https://www.Github.com). 
