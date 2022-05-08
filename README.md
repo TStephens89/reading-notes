@@ -1,7 +1,7 @@
 # Learning Summary
 [Learning Summary](./learning_summary.md)
 
-[The Coders Computer](./the_coders_computer.md)
+[The Coders Computer](./The_Coders_Computer.md)
 
 **The Growth Mindset**
 
