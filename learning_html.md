@@ -18,4 +18,4 @@
 
 ### What is it?
 
-**Semantics** are how we express what a certain piece of code means.  Semantics are important because it gives context for what you are doing.  This becomes very important as we move from different languages to make what we are writting make sense in the particular language.
+**Semantics** are how we express what a certain piece of code means.  Semantics are important because it gives context for what you are doing.  This becomes very important as we move from different languages to make what we are writing make sense in the particular language.
