@@ -10,4 +10,4 @@
 
 ![Screenshot 2022-05-03 at 12 09 06 PM](https://user-images.githubusercontent.com/104862689/169730980-c611d693-884c-4db4-b76c-1b7ebddba3cc.png)
 
-Hello World My name is Trevor Stephens and I am a former Navy sailor.  I served in the USN for 9 years and I am now exploring a passion of mine since I have finished highschool.  I am now learning to code through [Code Fellows](www.codefellows.com) and I am excited to continue learning to transition to another career.
+Hello World My name is Trevor Stephens and I am a former Navy sailor.  I served in the USN for 9 years and I am now exploring a passion of mine since I have finished highschool.  I am now learning to code through [Code Fellows](https://www.codefellows.com) and I am excited to continue learning to transition to another career.
