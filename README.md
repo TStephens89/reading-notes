@@ -11,6 +11,8 @@
 
 [Design Web Pages with CSS](./CSS.md)
 
+[Dynamic Web Pages with JavaScript](./javascript.md)
+
 
 **About Me**
 
