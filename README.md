@@ -13,6 +13,8 @@
 
 [Dynamic Web Pages with JavaScript](./javascript.md)
 
+[Programming with JavaScript](./programmingjavascript.md)
+
 
 **About Me**
 
