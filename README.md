@@ -19,6 +19,8 @@
 
 # Code 201 Reading Notes
 
+[class 01](./Class-01.md)
+
 **About Me**
 
 ![Screenshot 2022-05-03 at 12 09 06 PM](https://user-images.githubusercontent.com/104862689/169730980-c611d693-884c-4db4-b76c-1b7ebddba3cc.png)
