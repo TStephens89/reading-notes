@@ -1,4 +1,4 @@
-# Table of Contents
+# Code 102 Reading Notes
 [The Growth Mindset](./growth_mindset.md)
 
 [Learning Summary](./learning_summary.md)
@@ -16,6 +16,8 @@
 [Programming with JavaScript](./programmingjavascript.md)
 
 [Operators and Loops](./operatorsloops.md)
+
+# Code 201 Reading Notes
 
 **About Me**
 
