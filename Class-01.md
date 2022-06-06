@@ -20,7 +20,7 @@
 
 - <span style="color:blue">DOCTYPES</span> are very important while writing a page because it tells the browser which version of HTML we are using.
 - Comments in HTML are done between ` <!-- --> ` we want to get in the habit of writing comments so when we go back to our page we can easily see our thought process when writing or if you are collaborating with others.
-- ID attributes will uniquely identify and element
+- ID attributes will uniquely identify an element
 - Class attributes will identify several elements
 - block elements will start a new line within your web page examples of block elements are `<h1>, <p>, <ul>, <li> `
 - ` <div> and <span> ` are both used to group elements together.
@@ -36,7 +36,7 @@
 
 ## Chapter 18: Process and Design
 
-- When making a webpage it is imporant to take note of who the page is for and desgn it to fit that audiences needs.
+- When making a webpage it is important to take note of who the page is for and design it to fit that audiences needs.
 - During this process we will do a lot of how we want the page to be displayed as well as where we want it displayed this is called <span style="color:blue">Wireframing</span>
 - The sitemap will act as a blueprint of where people can view certain information on your webpage
 
@@ -48,11 +48,11 @@
 1. Define the goal
 2. Design the Script
 3. Code each step
-- It is important to understand that humans and computers do not thing the same so you will need to most times over explain to receive the desired outcome.
+- It is important to understand that humans and computers do not think the same so you will need to most times over explain to receive the desired outcome.
 - Objects represent physical things
 - Properties describe the object
 - methods are what makes the event happen
 - events are what is triggered from user interaction
-- JavaScript can be combined with HTML and CSS to creat beautiful interactive content on your webpage.
+- JavaScript can be combined with HTML and CSS to create beautiful interactive content on your webpage.
 - JS can be used in the actual HTML document using a `<script> ` tag or it can be linked from a .JS file.
 -
