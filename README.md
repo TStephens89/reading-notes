@@ -19,7 +19,8 @@
 
 # Code 201 Reading Notes
 
-[class 01](./Class-01.md)
+[Class 01](./Class-01.md)
+[Class 02](./class-02.md)
 
 **About Me**
 
