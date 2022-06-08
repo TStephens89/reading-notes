@@ -21,7 +21,7 @@
 
 [Class 01](./Class-01.md)
 [Class 02](./class-02.md)
-[Web page](./index.html)
+[Class 03](./class-03.md)
 
 **About Me**
 
