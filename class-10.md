@@ -11,7 +11,7 @@
 
 1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
 - the Debugger is a took we can use to look into our code and execute in certain ways to better find the problem
-2.Define what a breakpoint is.
+2. Define what a breakpoint is.
 - these are places where the debugger pauses in execution to identify issues.
 3. What is the call stack?
 - This is where we whas has been executed this far.
