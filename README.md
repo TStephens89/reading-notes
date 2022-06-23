@@ -32,6 +32,8 @@
 [Class 11](./class-11.md)
 [Class 12](./class-12.md)
 [Class 13](./class-13.md)
+[Class 14a](./class-14a.md)
+[Class 14b](./class-14b.md)
 
 
 **About Me**
