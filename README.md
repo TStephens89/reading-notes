@@ -35,6 +35,9 @@
 [Class 14a](./class-14a.md)
 [Class 14b](./class-14b.md)
 
+# Class 301 Reading Notes
+
+[Class 01](./class301-01.md)
 
 **About Me**
 
