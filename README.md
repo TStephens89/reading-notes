@@ -38,6 +38,7 @@
 # Class 301 Reading Notes
 
 [Class 01](./class301-01.md)
+[Class 02](./class301-02.md)
 
 **About Me**
 
