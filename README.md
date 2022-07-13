@@ -39,6 +39,7 @@
 
 [Class 01](./class301-01.md)
 [Class 02](./class301-02.md)
+[Class 03](./class301-03.md)
 
 **About Me**
 
