@@ -45,6 +45,7 @@
 [Class 06](./class301-06.md)
 [Class 07](./class301-07.md)
 [Class 08](./class301-08.md)
+[Class 09](./class301-09.md)
 
 
 **About Me**
